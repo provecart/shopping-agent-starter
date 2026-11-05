@@ -1,0 +1,6 @@
+run = "python shopping_agent.py"
+entrypoint = "shopping_agent.py"
+language = "python3"
+
+[nix]
+channel = "stable-24_05"
