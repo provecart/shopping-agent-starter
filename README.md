@@ -60,3 +60,12 @@ https://provecart.com/agents.md
 MIT licensed sample code. The correction format the check speaks
 is published and royalty-free to implement:
 https://provecart.com/standards/correction-format
+
+## Run it in your browser
+
+One-click import — each opens this repo in an online playground
+with the offline demo as the start command (no keys needed):
+
+- StackBlitz: https://stackblitz.com/github/provecart/shopping-agent-starter
+- CodeSandbox: https://codesandbox.io/s/github/provecart/shopping-agent-starter
+- Replit: https://replit.com/github/provecart/shopping-agent-starter
